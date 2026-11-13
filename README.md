@@ -4,9 +4,10 @@ A social network web app where users can create an account, upload images with c
 
 ## Demo
 
-Live: [LiveDemo](【你的网址】)
+Live: [LiveDemo](https://binary-upload-boom-0yj2.onrender.com/)
 
-![Home Page](public/imgs/screenshot.png)
+![Home Page](public/imgs/feed.jpeg)
+![User](public/imgs/upload.jpeg)
 
 ## Features
 
